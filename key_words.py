@@ -11,7 +11,7 @@ while(s):
     if word.upper() in l:
         print("line number:", count,":",s)
         foundwordcount+=1
-    if "NIGERIA" in l:
+    if "NIGERIAN" in l:
         print("line number:", count,":",s)
         foundwordcount+=1  
         print("It appears you have gotten a Nigerian Prince Scam. The best course of action is to ignore this scam email")     
